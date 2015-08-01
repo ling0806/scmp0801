@@ -1,4 +1,4 @@
-#player,#player a{ color:#CFCFCF;  font-size: 12px; font-family: CALIBRI	;}
+#player,#player a{ color:transparent;  font-size: 12px; font-family: Georgia	;}
 #player{ background:url(http://static.tumblr.com/zncwlku/Kk6mg4brk/bara1.png); background-position:bottom; background-color: #000000; opacity: 0.95}
 #player .mainImage{ background:url(http://static.tumblr.com/zncwlku/3xzmgl3hh/p_pronto.jpg); }
 
@@ -15,12 +15,12 @@
 #player #list{ right:0px; opacity: 0.55}
 
 #player #seeker{ right:320px; }
-#player #seekerBase{ border-color:#CFCFCF;  }
+#player #seekerBase{ border-color:#transparent;  }
 #player #seekerBuffered{ background-color:#transparent; }
-#player #seekerSliderBase{ background-color:#000000; }
+#player #seekerSliderBase{ background-color:transparent; }
 
 #player #volume{ width:65px; right:39px; }
-#player #volumeSlider{ width:8px; background:url(http://static.tumblr.com/zncwlku/Kk6mg4brk/bara1.png); }
+#player #volumeSlider{ width:8px; background:url(); }
 
 #playlist,#playlist .module,#playlist h3{ border-color:#CFCFCF;}
 #playlist .module{  color:#CFCFCF; background-color:#transparent; }
